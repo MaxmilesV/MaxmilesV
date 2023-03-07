@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxmilesV.
-- 👀 I’m interested in Machine Learning and Data Science.
+- 👀 I’m interested in Machine Learning and Python Development.
 - 🌱 I’m currently learning Python, Data Scince and Machine Learning.
 - 📫 How to reach me: 
       - Telegram: @MaxmilesV
