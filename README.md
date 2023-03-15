@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxmilesV.
 - 👀 I’m interested in Machine Learning and Python Development.
-- 🌱 I’m currently learning Python, Data Scince and Machine Learning.
+- 🌱 I’m currently learning Python, Data Science and Machine Learning.
 - 📫 How to reach me: 
       - Telegram: @MaxmilesV
       - E-mail: ben10200374@gmail.com
