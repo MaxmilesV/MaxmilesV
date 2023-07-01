@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Python Development.
 - 🌱 I’m currently learning Python, Data Science and Machine Learning.
 - 👨‍💻 I'm looking for a job.
-- 📫 How to reach me: Telegram: @MaxmilesV / E-mail: ben10200374@gmail.com
+- 📫 How to reach me: Telegram: @MaxmilesV
 
 <!---
 MaxmilesV/MaxmilesV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
